@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salt-study/precache-manifest.e361aa85326a2b1a061e71bc6cd3c280.js"
+  "/salt-study/precache-manifest.e06d4ac4a319ddea09541926a5d02d17.js"
 );
 
 self.addEventListener('message', (event) => {
