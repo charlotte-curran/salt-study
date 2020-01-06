@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareTen matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa fpEbEX"
+>
+  <div
+    className="sc-htpNat ejigUl"
+  >
+    join us.
+  </div>
+  <div
+    className="sc-bwzfXH bYCeyf"
+  >
+    <a
+      className="sc-bxivhb ewWMUj"
+      href="https://maps.google.com/?q=1200 Mäster+Samuelsgatan+36,+111+57+Stockholm"
+      target="_blank"
+    >
+      <span
+        className="sc-ifAKCX cFlEyZ"
+      >
+        Applied Technology STHLM AB
+      </span>
+      <span
+        className="sc-ifAKCX cFlEyZ"
+      >
+        Mäster Samuelsgatan 36
+      </span>
+      <span
+        className="sc-ifAKCX cFlEyZ"
+      >
+        c/o Epicenter Stockholm
+      </span>
+    </a>
+    <div
+      className="sc-htoDjs bZzhDu"
+    >
+      <div
+        className="sc-gZMcBi dRtlnL"
+        style={
+          Object {
+            "height": "0px",
+            "visibility": "hidden",
+          }
+        }
+        width={null}
+      >
+        <button
+          className="sc-dnqmqq cvFfYv"
+          onClick={[Function]}
+        >
+          Stockholm
+        </button>
+        <button
+          className="sc-dnqmqq cvFfYv"
+          onClick={[Function]}
+        >
+          Amsterdam
+        </button>
+      </div>
+      <button
+        className="sc-gzVnrw bJcGWi"
+        onClick={[Function]}
+      >
+        tell me more
+      </button>
+    </div>
+    <div
+      className="sc-EHOje dXNxfJ"
+    >
+      For general questions please shoot us an e-mail at hello@study-at-salt.com
+    </div>
+    <div
+      className="sc-bZQynM fuwYFG"
+    >
+      Wow! We currently experiencing a very high volume of applications and emails, so unfortunately we are not able to reply to all e-mails in a timely manner. We apologize for the inconvenience and we will try to respond as soon as possible.
+    </div>
+  </div>
+</div>
+`;

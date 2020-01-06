@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CareerPackButton matches the snapshot 1`] = `
+<div
+  className="sc-bwzfXH uTxCW"
+>
+  <div
+    className="sc-ifAKCX bOoPPc"
+    style={
+      Object {
+        "height": "0px",
+        "visibility": "hidden",
+      }
+    }
+    width={null}
+  >
+    <button
+      className="sc-htpNat kWXjPO"
+      onClick={[Function]}
+    >
+      Stockholm
+    </button>
+    <button
+      className="sc-htpNat kWXjPO"
+      onClick={[Function]}
+    >
+      Amsterdam
+    </button>
+  </div>
+  <button
+    className="sc-bdVaJa iGLASH"
+    onClick={[Function]}
+  />
+</div>
+`;

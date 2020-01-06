@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareFive matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa hcqQTd"
+>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      javascript is the
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         most sought after 
+      </span>
+      coding language over the next 3-5 years
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      we teach you how to code and how to work
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         in a real life agile dev team
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      demanding and
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         accelerated 
+      </span>
+      training and career program
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      europe needs
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         500 000 new technology professionals 
+      </span>
+      by 2020!
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      our instructors want you to succeed and will be there
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         every step of the way
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH NQDGu"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      build real products and prototypes for
+      <span
+        className="sc-htpNat bhsidi"
+      >
+         real tech companies 
+      </span>
+      during your training
+    </div>
+  </div>
+</div>
+`;

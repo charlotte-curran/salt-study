@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareSeven matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa iPsFXk"
+>
+  <div
+    className="sc-bwzfXH edcvdU"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-htpNat gmnOsF"
+      >
+        Social Responsibility
+      </div>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-bxivhb isOTcs"
+      >
+        diversity in tech
+      </div>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-ifAKCX eFKKdX"
+      >
+        &lt;/salt&gt; is striving for a richer diversity in the European tech industry. We believe that professional organizations should mirror the population's diversity. With our accelerated career program we aim to increase the number women and new Europeans in tech.
+      </div>
+    </div>
+  </div>
+  <img
+    className="sc-EHOje HkyYL"
+    src="diversity-bg.jpg"
+  />
+</div>
+`;

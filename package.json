@@ -8,7 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "lodash.throttle": "^4.1.1",
+    "react-reveal": "^1.2.2",
+    "react-spring": "^8.0.27",
+    "react-swipeable": "^5.4.0",
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "cypress": "cypress open"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,7 +40,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "cypress": "^3.7.0",
+    "react-test-renderer": "^16.12.0"
   },
   "homepage": "http://charlotte-curran.github.io/salt-study"
 }

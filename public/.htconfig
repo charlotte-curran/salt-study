@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteBase /
+RewriteRule ^/?(.*)$ salt.study/$1 [L,QSA,R=301]
+RewriteRule ^/?$ salt.study/ [L,QSA,R=301]

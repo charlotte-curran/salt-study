@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareNine matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa fYfXKA"
+>
+  <img
+    className="sc-bwzfXH eLpfse"
+    src="wehelp.svg"
+  />
+  <div
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    <div
+      className="sc-EHOje gCbPeg"
+    >
+      <div
+        className="sc-bZQynM knvIko"
+      >
+        <div
+          className="sc-htpNat ikjFoU"
+        >
+          we help companies with training and provisioning of software developers
+        </div>
+        <div
+          className="sc-ifAKCX eFKKdX"
+        >
+          Let’s develop a predicable and stable recruitment pipeline of software developers to your company. Enable your team to grow with new hires that have the technical and interpersonal skills they need to succeed. We help decrease your new hires' time to productivity by providing practical, job-specific training, simulating real world agile dev teams for 3 months prior to joining your company.
+        </div>
+      </div>
+      <div
+        className="sc-htoDjs eYsGkj"
+      >
+        <div
+          className="sc-gzVnrw dyZuXm"
+        >
+          <div
+            className="sc-bxivhb krSelM"
+          >
+            hire
+          </div>
+          <div
+            className="sc-ifAKCX eFKKdX"
+          >
+            Bring in diverse and technical talent to your company directly from &lt;/salt&gt;. We find, test and recruit the most driven and tech savvy talents to our Career Program were we train your future talents with our industry leading instructors.
+          </div>
+        </div>
+        <div
+          className="sc-gzVnrw dyZuXm"
+        >
+          <div
+            className="sc-bxivhb krSelM"
+          >
+            onboard
+          </div>
+          <div
+            className="sc-ifAKCX eFKKdX"
+          >
+            Prepare your new hires with the industry expertise, company knowledge, and skills needed to thrive at your company. We will train your new staff so they are ready to become productive in your dev teams.
+          </div>
+        </div>
+        <div
+          className="sc-gzVnrw dyZuXm"
+        >
+          <div
+            className="sc-bxivhb krSelM"
+          >
+            upskill & re-skill
+          </div>
+          <div
+            className="sc-ifAKCX eFKKdX"
+          >
+            Transform your team members through rigorous, intensive and customized training programs in order to keep up with new technologies and business challenges.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-dnqmqq diNtRe"
+  >
+    <img
+      className="sc-iwsKbI jxBLIC"
+      src="softwarearrow.svg"
+    />
+    <button
+      className="sc-gZMcBi fmrYId"
+      onClick={[Function]}
+    >
+      read more
+    </button>
+  </div>
+</div>
+`;

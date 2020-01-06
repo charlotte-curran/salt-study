@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareFour matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa fABBwF"
+>
+  <img
+    className="sc-EHOje heIGPL"
+    src="epicenter_transparent-min.png"
+  />
+  <div
+    className="sc-bZQynM cjyarw"
+  >
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-bwzfXH klKZbH"
+      >
+        Partners and hiring network
+      </div>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <span
+        className="sc-htpNat dFhCPY"
+      >
+        epicenter
+      </span>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <span
+        className="sc-htpNat dFhCPY"
+      >
+        campus
+      </span>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-bxivhb vEeKG"
+      >
+        Stockholm & Amsterdam
+      </div>
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-ifAKCX cQjtcx"
+      >
+        Our students are a part of the ecosystem in Epicenter, interacting with the most innovative companies and using real life cases to accelerate learning. Epicenter is a digital House of Innovation and in a unique partnership &lt;/salt&gt; and Epicenter are able to provide the most extensive and targeted hiring network for our coders.
+      </div>
+    </div>
+  </div>
+</div>
+`;

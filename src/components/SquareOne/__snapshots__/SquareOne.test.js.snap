@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareOne matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa knZHcS"
+>
+  <img
+    className="sc-bxivhb hBHhOs"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-EHOje cPCjJa"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-ifAKCX kVGeYQ"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-bZQynM dUWWhk"
+    src="saltplus.svg"
+  />
+  <div
+    className="sc-bwzfXH kulSxP"
+  >
+    <span
+      className="sc-htpNat bRHmui"
+    >
+      learn
+    </span>
+    <span
+      className="sc-htpNat bRHmui"
+    >
+      how to
+    </span>
+    <span
+      className="sc-htpNat iBYKtU"
+    >
+      code
+    </span>
+    <span
+      className="sc-htpNat bRHmui"
+    >
+      and
+    </span>
+    <span
+      className="sc-htpNat iBYKtU"
+    >
+      launch
+    </span>
+    <span
+      className="sc-htpNat bRHmui"
+    >
+      your
+    </span>
+    <span
+      className="sc-htpNat iBYKtU"
+    >
+      career
+    </span>
+    <span
+      className="sc-htpNat iBYKtU"
+    >
+      in tech
+    </span>
+  </div>
+  <button
+    className="sc-gzVnrw kyyFBx"
+    onClick={[Function]}
+  >
+    for companies!
+  </button>
+</div>
+`;

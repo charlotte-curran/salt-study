@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home matches the snapshot 1`] = `
+<div
+  className="sc-dnqmqq llekxD"
+>
+  <img
+    className="sc-ifAKCX jBVcFo"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-bZQynM iACVWl"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-EHOje eyCOiF"
+    src="saltplus.svg"
+  />
+  <img
+    className="sc-gzVnrw iDSDOu"
+    src="saltplus.svg"
+  />
+  <div
+    className="sc-iwsKbI bMqjPQ"
+  >
+    <div
+      className="sc-gZMcBi eUpego"
+    >
+      Welcome to 
+      <span
+        className="sc-gqjmRU hQZdwx"
+      >
+        salt
+      </span>
+      !
+    </div>
+    <div
+      className="sc-VigVT bzhQOw"
+    >
+      Pick your location:
+    </div>
+    <div
+      className="sc-jTzLTM jZbgRH"
+    >
+      <button
+        className="sc-bdVaJa ipMqzT"
+        onClick={[Function]}
+      >
+        Stockholm
+      </button>
+      <button
+        className="sc-bdVaJa ipMqzT"
+        onClick={[Function]}
+      >
+        Amsterdam
+      </button>
+      <button
+        className="sc-bdVaJa ipMqzT"
+        onClick={[Function]}
+      >
+        Oslo
+      </button>
+    </div>
+  </div>
+</div>
+`;

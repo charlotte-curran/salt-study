@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareTwo matches the snapshot 1`] = `
+<div
+  className="sc-jzJRlG fJhppY"
+>
+  <img
+    className="sc-eNQAEJ grRCNi"
+    src="saltplus.svg"
+  />
+   
+  <img
+    className="sc-hMqMXs ffHWaF"
+    src="saltplus.svg"
+  />
+  <div
+    className="sc-cSHVUG fNrsBC"
+  >
+    <div
+      className="sc-chPdSV kByurD"
+    >
+      <div
+        className="sc-kAzzGY fGNqSJ"
+      >
+        apply
+      </div>
+      <div
+        className="sc-kAzzGY fGNqSJ"
+      >
+        study for 3 months
+      </div>
+      <div
+        className="sc-kAzzGY fGNqSJ"
+      >
+        get hired on the spot
+      </div>
+    </div>
+    <div
+      className="sc-kgoBCf ildRFZ"
+    >
+      Welcome to School of applied technology &lt;/salt&gt;
+    </div>
+    <div
+      className="sc-kGXeez gbUpKH"
+    >
+      Apply to our accelerated career program to become a Full Stack JavaScript developer and get a job within our hiring network of companies. Apply now, we fill our seats on a continuous basis!
+    </div>
+    <div
+      className="react-reveal"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-bwzfXH uTxCW"
+      >
+        <div
+          className="sc-ifAKCX bOoPPc"
+          style={
+            Object {
+              "height": "0px",
+              "visibility": "hidden",
+            }
+          }
+          width={null}
+        >
+          <button
+            className="sc-htpNat kWXjPO"
+            onClick={[Function]}
+          >
+            Stockholm
+          </button>
+          <button
+            className="sc-htpNat kWXjPO"
+            onClick={[Function]}
+          >
+            Amsterdam
+          </button>
+        </div>
+        <button
+          className="sc-bdVaJa iGLASH"
+          onClick={[Function]}
+        >
+          apply now
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

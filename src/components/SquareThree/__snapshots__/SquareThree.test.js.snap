@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareThree matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa fkuuUy"
+>
+  <iframe
+    allowFullScreen={true}
+    className="sc-bwzfXH gsByXg"
+    frameBorder="0"
+    src="https://www.youtube.com/embed/d33cSVnktyA"
+    title="salt video"
+  />
+  <div
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    <div
+      className="sc-bxivhb eHfRdT"
+    >
+      <div
+        className="sc-htpNat haXXOg"
+      >
+        ’’In our 12 week immersive on-site bootcamp students go from novice to an autonomous Full Stack JavaScript developer working directly with companies in the Epicenter ecosystem.’’
+      </div>
+    </div>
+  </div>
+</div>
+`;

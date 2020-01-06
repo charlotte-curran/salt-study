@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar matches the snapshot 1`] = `
+<div>
+  <div
+    className="sc-bdVaJa Sxtyk"
+  >
+    <a
+      className="sc-EHOje ccJqxD"
+      href="#salt"
+      onClick={[Function]}
+    >
+      <img
+        className="sc-bZQynM hrOpfu"
+        src="saltlogo.svg"
+      />
+    </a>
+    <div
+      className="sc-ifAKCX cAQDKO"
+    >
+      <a
+        className="sc-bwzfXH iBprWf"
+        href="#campus-epicenter"
+        onClick={[Function]}
+      >
+        campus epicenter
+      </a>
+      <a
+        className="sc-bwzfXH iBprWf"
+        href="#career-program"
+        onClick={[Function]}
+      >
+        career program
+      </a>
+      <a
+        className="sc-bwzfXH iBprWf"
+        href="#how-it-works"
+        onClick={[Function]}
+      >
+        how does it work?
+      </a>
+      <a
+        className="sc-bwzfXH iBprWf"
+        href="#diversity-in-tech"
+        onClick={[Function]}
+      >
+        diversity in tech
+      </a>
+      <a
+        className="sc-bwzfXH iBprWf"
+        href="#our-team"
+        onClick={[Function]}
+      >
+        our team
+      </a>
+    </div>
+    <span
+      className="sc-bxivhb gjSED"
+    />
+    <a
+      className="sc-htpNat jgxKCt"
+      onClick={[Function]}
+    >
+      
+    </a>
+  </div>
+</div>
+`;

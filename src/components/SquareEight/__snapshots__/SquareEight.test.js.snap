@@ -1,0 +1,400 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareEight matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa fSxysm"
+>
+  <div
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    <div
+      className="sc-bwzfXH dAhKeG"
+    >
+      this is &lt;/salt&gt;
+    </div>
+  </div>
+  <div
+    className="sc-htpNat cdknrP"
+  >
+    <div>
+      <svg
+        className="sc-gZMcBi cmgZMp"
+        onClick={[Function]}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M9 18l6-6-6-6"
+        />
+      </svg>
+      <svg
+        className="sc-gZMcBi fgdujF"
+        onClick={[Function]}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M9 18l6-6-6-6"
+        />
+      </svg>
+      <div
+        className="sc-gqjmRU ehjWlk"
+        style={
+          Object {
+            "transform": "translate3d(0px, 0, 0)",
+          }
+        }
+        width={1024}
+      >
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee0"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="koshi_hamedi.png"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Koshi Hamedi
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Director of strategy at Microsoft, Co-founder at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Founder of Donya Labs and Director of strategy at Microsoft.
+                Koshi came to Sweden in the 80's as a refugee. Through his entrepreneurial drive and determination,
+                he built one of Sweden's fastest growing technology companies and established the
+                company as the global market leader. Donya Labs was acquired by Microsoft in 2017.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jLsQWQ"
+          id="employee1"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="nicole_henning.png"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Nicole Henning
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            COO at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Nicole is a people person with a passion for business and developing others!
+                She has worked as a consultant within communication and leadership at several of Sweden's largest
+                companies within tech and telecom. Most recently she comes from the recruitment industry.
+                Core values for Nicole are teamwork, trust, ethics, and that there's always a reason to celebrate!
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee2"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="marcus_hammarberg.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Marcus Hammarberg
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Head of curriculum & agile coach at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            In parallel with &lt;/salt&gt; Marcus is an agile coach at Spotify. As a developer, Marcus contributes
+               to open source frameworks and he has also produced several courses on JavaScript development for PluralSight,
+               Marcus has also co-authored the book "Kanban In Action". Marcus has worked at companies such as Tradera,
+               Huawei and Spotify
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jLsQWQ"
+          id="employee3"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="ersan_curuklu.png"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Erşan Curuklu
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            UX instructor at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Erşan is a highly experienced requirements analyst and UX Designer with over 15 years of experience
+                as a digital designer. Erşan is a teacher and lecturere in the UX area, for e.g. at Bergh's School of Communications
+                in Stockholm. Erşan has won several awards in UX/UI, including Svenska Design Priset 2014 and Resumé 2014.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee4"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="max_hamedi.png"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Max Hamedi
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Professor at KTH & Harvard, Co-founder at &lt;/salt
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Postdoctorial research fellow at Harvard University & Associate Professor at the Royal Institute of Technology in
+                Stockholm. Our in-house doctor and professor scanning for future technologies, driving our efforts to provide the best applicable
+                technology training possible.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jLsQWQ"
+          id="employee5"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="richard_andemark.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Richard Andemark
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            CEO at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            At age 25 Richard launched a global SaaS company's operations in Finland as Managing Director, reaching profitability
+                in just six months. At 29, Richard launched Donya Labs' American operations in San Francisco as GM, achieving exponential
+                revenue growth and the company was acquired by Microsoft.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee6"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="daniel_nasman.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Daniel Näsman
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Head instructor at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Daniel most recently comes from Daniel Wellington where he was Global Head of IT Development, overseeing development offices in Sweden, Poland and China. 
+                With many years experience from being both a developer and manager in an international setting he knows how important the developer is on todays and 
+                tomorrows market. He is passionate about building teams and making people grow. 
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jLsQWQ"
+          id="employee7"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="mies_mandoki_cirillo.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Mies Mandoki Cirillo
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Instructor at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Mies graduated from the first class of &lt;/salt&gt; developers. He has a huge passion for the digital space and is always eager to
+                learn new tech. Before &lt;/salt&gt;, he was working with video editing, graphic design and was the main producer of a large ongoing video series.
+                Mies is a calm, highly driven individual who firmly believes that coders are the superstars of the future.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee8"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="zachary_eriksson.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Zachary Eriksson
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Junior Instructor at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Zachary graduated from the third class of developers. His passion for technology and computers has always been close to his heart.
+                Before &lt;/salt&gt; he worked as a consultant within Wordpress development and design. Zachary is an energetic, social and driven individual who
+                believes communication is the key to success.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jLsQWQ"
+          id="employee9"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="stina_johansson.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Stina Johansson
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Head of People & Talent at &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Stina has a passion for people and developing new talents, employees and oganisations! Before &lt;/salt&gt; Stina worked as a consultant, project
+                manager and with human resources. She has a long experience from the recruitment-, bank-, and IT industries. Core values for Stina is curiosity,
+                commitment, courage, professionalism and last but not least to have fun along the way.
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb cMsHve"
+          id="employee10"
+          width={1024}
+        >
+          <img
+            className="sc-ifAKCX iNlpUy"
+            src="sara_hjortmar.jpg"
+          />
+          <div
+            className="sc-EHOje kUYLiS"
+          >
+            Sara Hjortmar
+          </div>
+          <div
+            className="sc-bZQynM cPCxc"
+          >
+            Sales & Marketing &lt;/salt&gt;
+          </div>
+          <div
+            className="sc-gzVnrw jhSnib"
+            width={73.3952}
+          >
+            Sara is an energetic and curious person who has a keen interest in startups. Sara holds a bachelor's degree in business administration
+    from Uppsala University, where, in addition to her studies, she was active in corporate promotion organizations. Since then, she has worked with
+    marketing at Red Bull and most recently at the tech company Favro. When she is not working, she loves to train and is currently performing a Swedish
+    classic.
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-dnqmqq EPclz"
+      >
+        <div
+          className="sc-htoDjs ieZAxc"
+        >
+          <button
+            className="sc-iwsKbI eJQTMS"
+            onClick={null}
+          />
+          <button
+            className="sc-iwsKbI eoHSFa"
+            onClick={[Function]}
+          />
+          <button
+            className="sc-iwsKbI eoHSFa"
+            onClick={[Function]}
+          />
+          <button
+            className="sc-iwsKbI eoHSFa"
+            onClick={[Function]}
+          />
+          <button
+            className="sc-iwsKbI eoHSFa"
+            onClick={[Function]}
+          />
+          <button
+            className="sc-iwsKbI eoHSFa"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

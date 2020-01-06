@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CareerPackModal matches the snapshot 1`] = `
+<div
+  className="sc-bdVaJa pJeAb"
+  onClick={[Function]}
+>
+  <div
+    className="sc-bwzfXH gEwNCG"
+    onClick={[Function]}
+  >
+    <button
+      className="sc-htoDjs lhQkXx"
+      onClick={[Function]}
+    >
+      x
+    </button>
+    <div
+      className="sc-dnqmqq eGLZxa"
+    >
+      <div
+        className="sc-iwsKbI eASLvV"
+      >
+        <div
+          className="sc-htpNat dFYVGM"
+        >
+          <span
+            className="sc-bxivhb fbMhA"
+          >
+            Send me detailed
+          </span>
+          <span
+            className="sc-bxivhb fbMhA"
+          >
+            information about the
+          </span>
+          <span
+            className="sc-bxivhb bbZYVC"
+          >
+            2020 career program
+          </span>
+        </div>
+        <p
+          className="sc-ifAKCX hKdYrx"
+        >
+          Enter your email below to receive our Career Pack with detailed information about the program and how to apply.
+        </p>
+        <p
+          className="sc-bZQynM tOtsG"
+        >
+          Just a heads up, it can take up to 
+          <span
+            className="sc-EHOje hafDDN"
+          >
+            two hours
+          </span>
+           to receive your Career Pack!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
