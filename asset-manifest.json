@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salt-study/static/css/main.d1b05096.chunk.css",
+    "main.js": "/salt-study/static/js/main.7a4ff491.chunk.js",
+    "main.js.map": "/salt-study/static/js/main.7a4ff491.chunk.js.map",
+    "runtime-main.js": "/salt-study/static/js/runtime-main.e687f648.js",
+    "runtime-main.js.map": "/salt-study/static/js/runtime-main.e687f648.js.map",
+    "static/js/2.ea4b4a81.chunk.js": "/salt-study/static/js/2.ea4b4a81.chunk.js",
+    "static/js/2.ea4b4a81.chunk.js.map": "/salt-study/static/js/2.ea4b4a81.chunk.js.map",
+    "index.html": "/salt-study/index.html",
+    "precache-manifest.e361aa85326a2b1a061e71bc6cd3c280.js": "/salt-study/precache-manifest.e361aa85326a2b1a061e71bc6cd3c280.js",
+    "service-worker.js": "/salt-study/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/salt-study/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ea4b4a81.chunk.js.LICENSE": "/salt-study/static/js/2.ea4b4a81.chunk.js.LICENSE",
+    "static/media/logo.svg": "/salt-study/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e687f648.js",
+    "static/js/2.ea4b4a81.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7a4ff491.chunk.js"
+  ]
+}
